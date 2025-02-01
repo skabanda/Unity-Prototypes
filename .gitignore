@@ -1,0 +1,10 @@
+# Ignore unnecessary Unity files
+Library/
+Temp/
+Obj/
+Logs/
+MemoryCaptures/
+Build/
+UserSettings/
+.vs/
+.idea/
